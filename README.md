@@ -31,4 +31,4 @@ and, data creation py file that has been used for converting images and CSV file
 
 
 
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<video src="Project 1.avi" width="320" height="200" controls preload></video>
