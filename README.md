@@ -29,4 +29,4 @@ and, data creation py file that has been used for converting images and CSV file
 1. For evaluating the MF-DeepBall run the ProjectDeepforBallDet_MF notebook sections: General setup, Dataset Loading, MultiFrame-DeepBall and Evaluate.
 2. To evaluate other models run the ModelsEvaluation(excluding_MF).
 
-Play the Project 1.avi for demonstration
+For demonstration, play the  "Project 1.avi" file 
