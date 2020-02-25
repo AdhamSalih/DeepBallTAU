@@ -30,5 +30,4 @@ and, data creation py file that has been used for converting images and CSV file
 2. To evaluate other models run the ModelsEvaluation(excluding_MF).
 
 
-
-![](Project 1.avi)
+<video scr="Project 1.avi">
